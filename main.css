@@ -1,0 +1,275 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Open Sans',sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'liga';
+    -webkit-text-size-adjust: 100%;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #fff;
+    margin: 0;
+    display: block;
+
+}
+/*-----------------------------------Phan from----------------------------------*/
+
+
+.round1 {
+    background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url(../images/bg-intro.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.padding-y50 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.borde-round3 {
+    border-radius: 3px;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+.padding-x20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.padding-y10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.transparent30 {
+    background: rgba(0,0,0,0.3);
+}
+.white {
+    color: #fff;
+}
+.secondary-font {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-size: 28px;
+    line-height: 45px;
+}
+.light {
+    color: #aaa;
+}
+.big-text {
+    font-size: 16px;
+    line-height: 26px;
+}
+.light2 .form-control {
+    background: #ddd;
+}
+.paddingtop20 {
+    padding-top: 20px;
+}
+.style1 input, .style2 textarea {
+    border: 0px;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+    margin-bottom: 20px;
+    padding: 14px 15px;
+    width: 93%;
+    height: 8%;
+    text-align: center;
+}
+
+.btn.btn-xl {
+    padding: 18px 44px;
+    font-size: 16px;
+    width: 93%;
+    height: 12%;
+}
+.bt3 {
+    border-radius: 3px;
+    border: 0px;
+}
+.bg1 {
+    background: #009cde;
+}
+.small-text {
+    font-size: 14px;
+}
+.btnut {
+    color: #888;
+}
+p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.item{
+    margin-top: 20px;
+    
+}
+/*-------- Phần menu header----------------------    */
+
+
+
+.white1 {
+    color: #bbb;
+}
+.ai{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*---- Phan2-------*/
+
+
+.bg-gray{
+    background-color:#f4f4f4;
+    padding-top: 65px;
+    line-height: 32px;
+    border-radius: 3px;
+    overflow: hidden;
+    margin: 10px 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+   
+
+}
+
+.bg{
+    background-color: #009cde;
+}
+.paddingp2{
+    padding: 60px 0;;
+}
+.paddingp3{
+     padding-top: 30px;
+     padding-bottom: 30px;
+     
+}
+.we{
+    text-align: center;
+    
+  
+}
+.text1{
+    text-align: center;
+    background: #f4f4f4;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 300px;
+    height: 300px;
+}
+.r2{
+    
+    line-height: 20px;
+
+}
+.text2{
+    max-width: 100%;
+    margin: 10px 0;
+    margin-bottom: 20px;
+    left: -150px;
+    line-height: 12px;
+}
+.r1{
+    background-color: #f4f4f4;
+    margin-bottom: 30px;
+    width: 1200px;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    color: gray;
+    
+}
+.p1{
+    text-align: center;
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+.radius{
+    border-radius: 100%;
+    background-color: #f4f4f4 ;
+    min-width: 150px;
+    min-height: 150px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    padding: 20px;
+    padding-top: 50px;
+    background-size: 20px;
+    
+    
+}
+.ion1{
+    color:#bbb
+}
+.fifty{
+    padding-left: 20px;
+}
+.mt{
+    display: inline;
+}
+.card{
+    margin-bottom: 20px;
+    border: none; 
+    margin-top: 25px;
+}
+
+.card2{
+    margin-bottom: 20px;
+    border: none; 
+    margin-left: 0px;
+    margin-top: 25px;
+}
+.meet{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 10px;
+}
+.figure-img{
+    border-radius: 50%;
+
+}
+.figure{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.a1{
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 14px;
+}
+.pp1{
+    margin-left: 35px;
+}
+
+.item i{
+    margin: 6px;
+    color: #888;
+}
+.like{
+    margin-bottom: 20px;
+    border: none; 
+    margin-top: 25px;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+.cta{
+    background-color: #f4f4f4;
+    margin-bottom: 30px;
+
+    
+}
+.gray{
+    background-color: #f4f4f4;
+}
+.use{
+    margin-bottom: 50px;
+}
+.list a{
+    margin-top: 25px ;
+    margin-bottom: 25px;
+    font-size: 12px;
+    color: #888;
+}
+.copy{
+    margin-top: 30px;
+}
